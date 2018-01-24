@@ -1,0 +1,60 @@
+.top-box {
+    height: 12vh;
+    width: 100vw;
+    background: rgb(42, 85, 160);
+    border: 2px solid black;
+    color: rgb(255,255,255);
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    align-content: center;
+}
+
+}
+
+.mid-box {
+    height: 85vh;
+    width: 100vw;
+    background: rgb(145, 68, 68);
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    align-content: center;
+    margin-left: 30%;
+
+}
+
+.shove-center {
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+.shove-less {
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 25%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.bot-box {
+    height: 12vh;
+    width: 100vw;
+    background: rgb(42, 85, 160);
+    border: 2px solid black;
+    color: rgb(255,255,255);
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    align-content: center;
+}
+.right-ad {
+    height: 150px;
+    width: 200px;
+    padding-left: 80%;
+    padding-right: 5%;
+    padding-top: 35%;
+    padding-bottom: 35%;
+}
